@@ -1,0 +1,1 @@
+Precisa ter instalado postgress e um database e criar as tabelas
